@@ -10,7 +10,7 @@ A simple drawing tool integrated into the VS Code sidebar, allowing you to creat
 - Save drawings as PNG files to your workspace
 - Size indicator showing brush/eraser size while drawing
 - Responsive canvas that adapts to the sidebar size
-
+ 
 ## Installation
 
 1. Clone or download this repository
