@@ -14,7 +14,7 @@ Welcome to **PaintPad**, a simple drawing pad integrated into Visual Studio Code
 
 ## Demo
 
-![PaintPad Demo](https://github.com/ferjoussama/Paintpad-vs-code-ext/blob/main/media/demo.gif)
+![PaintPad Demo](https://raw.githubusercontent.com/ferjoussama/Paintpad-vs-code-ext/refs/heads/main/media/demo.gif)
 
 ## Requirements
 
