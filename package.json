@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ferjoussama/Laravel-N-1-Query-Detector-vs-code-"
+    "url": "https://github.com/ferjoussama/Paintpad-vs-code-ext"
   },
   "activationEvents": [],
   "main": "./dist/extension.js",
