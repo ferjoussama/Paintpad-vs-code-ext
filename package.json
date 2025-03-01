@@ -3,6 +3,7 @@
   "displayName": "PaintPad",
   "description": "A simple drawing pad integrated into VS Code",
   "version": "0.0.1",
+  "publisher": "ferjoussama",
   "engines": {
     "vscode": "^1.60.0"
   },
