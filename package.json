@@ -3,7 +3,7 @@
   "displayName": "PaintPad",
   "description": "A simple drawing pad integrated into VS Code",
   "version": "0.0.1",
-  "publisher": "ferjoussama",
+  "publisher": "oussamaferjani",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -15,6 +15,7 @@
     "type": "git",
     "url": "https://github.com/ferjoussama/Paintpad-vs-code-ext"
   },
+  "icon": "media/logo.png",  
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
